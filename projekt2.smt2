@@ -42,8 +42,6 @@
 ;;;;;;;; START OF SOLUTION ;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-; Zde doplnte vase reseni
-
 ; counts must be positive
 (assert (>= n1 0))
 (assert (>= n2 0))
